@@ -1,0 +1,1 @@
+{"type":"View","props":{"width":200,"height":60},"compId":2,"child":[{"type":"Label","props":{"y":40,"x":2,"width":167,"var":"lblName","height":35,"fontSize":30,"color":"#f6f1f1","bold":true},"compId":4},{"type":"Image","props":{"y":30,"x":-69,"width":55,"var":"imgHead","height":55},"compId":5}],"loadList":[],"loadList3D":[]}
